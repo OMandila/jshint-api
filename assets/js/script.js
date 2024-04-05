@@ -1,4 +1,4 @@
-const API_KEY = "rwzTKW5fthM-rPBOe1AoNvpwEUs";
+const API_KEY = '';
 const API_URL = "https://ci-jshint.herokuapp.com/api";
 const resultsModal = new bootstrap.Modal(document.getElementById('resultsModal'));
 
